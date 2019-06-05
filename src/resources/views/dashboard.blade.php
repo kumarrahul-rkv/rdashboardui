@@ -1,4 +1,4 @@
-        @extend('kumarrahul.rdashboardui.layout')
+        @extends('kumarrahul.rdashboardui.layout')
             @section('main-content')
                 <div class="content-inner">
                     <div class="container-fluid">
