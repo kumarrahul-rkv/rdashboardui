@@ -23,3 +23,7 @@ If you discover any security related issues, please email rahulverma.rkv@gmail.c
 ## Credits
 
 - [Elisyam Dashboard](https://www.saerox-design.com/elisyam.html)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
