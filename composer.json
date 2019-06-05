@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kumarrahul\\rdashboardui\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kumarrahul\\rdashboardui\\DashboardServiceProvider"
+            ]
+        }
+    }
 }
