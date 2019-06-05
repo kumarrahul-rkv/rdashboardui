@@ -229,6 +229,7 @@ Author: SAEROX
                 </div>
                 <!-- End Left Sidebar -->
 
+                @yield('main-content')
 
             </div>
             <!-- End Page Content -->

@@ -1,3 +1,5 @@
+        @extend('kumarrahul.rdashboardui.layout')
+            @section('main-content')
                 <div class="content-inner">
                     <div class="container-fluid">
                         <!-- Begin Page Header-->
@@ -318,3 +320,4 @@
                     <!-- End Offcanvas Sidebar -->
                 </div>
                 <!-- End Content -->
+            @endsection
