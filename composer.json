@@ -1,0 +1,14 @@
+{
+    "name": "kumarrahul/rdashboardui",
+    "description": "This is a laravel package which creates a dashboard layout",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Kumar",
+            "email": "rahulverma.rkv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
